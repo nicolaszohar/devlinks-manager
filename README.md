@@ -1,2 +1,2 @@
 # devlinks-manager
-Tiny app to manage all usefull dev links and articles
+Tiny app to manage all usefull dev links and articles grouped by categories
